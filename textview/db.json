@@ -1,0 +1,112 @@
+{
+  "cources": [
+    {
+      "id": 1,
+      "course_name": "nisi nam ultrices libero non",
+      "course_title": "sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum",
+      "course_fee": 4193.9
+    },
+    {
+      "id": 2,
+      "course_name": "suspendisse potenti cras in purus eu magna vulputate luctus",
+      "course_title": "felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat",
+      "course_fee": 4541
+    },
+    {
+      "id": 3,
+      "course_name": "eget tincidunt eget tempus vel pede",
+      "course_title": "blandit mi in porttitor pede justo eu massa donec dapibus duis at velit",
+      "course_fee": 1770.2
+    },
+    {
+      "id": 4,
+      "course_name": "a pede posuere nonummy integer",
+      "course_title": "in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere",
+      "course_fee": 4417
+    },
+    {
+      "id": 5,
+      "course_name": "penatibus et magnis dis parturient",
+      "course_title": "vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam",
+      "course_fee": 3153.2
+    },
+    {
+      "id": 6,
+      "course_name": "ut at dolor quis odio consequat varius integer",
+      "course_title": "auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi",
+      "course_fee": 4072.8
+    },
+    {
+      "id": 7,
+      "course_name": "eget rutrum at lorem integer tincidunt ante",
+      "course_title": "in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod",
+      "course_fee": 2142.7
+    },
+    {
+      "id": 8,
+      "course_name": "posuere cubilia curae duis faucibus accumsan",
+      "course_title": "aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere",
+      "course_fee": 1211.6
+    },
+    {
+      "id": 9,
+      "course_name": "dictumst morbi vestibulum velit id",
+      "course_title": "primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam",
+      "course_fee": 3752.6
+    },
+    {
+      "id": 10,
+      "course_name": "vitae mattis nibh ligula nec sem duis aliquam convallis nunc",
+      "course_title": "id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio",
+      "course_fee": 3812.5
+    },
+    {
+      "course_name": "React JS",
+      "course_title": "Learn Basic of React JS",
+      "course_fee": "25551",
+      "id": 11
+    },
+    {
+      "course_name": "Node",
+      "course_title": "Create nide",
+      "course_fee": "1111",
+      "id": 12
+    },
+    {
+      "course_name": "Node",
+      "course_title": "Learn Basic of React JS",
+      "course_fee": "777777",
+      "id": 13
+    },
+    {
+      "course_name": "full stack",
+      "course_title": " rrrrrrrrrrr",
+      "course_fee": "12222",
+      "id": 14
+    }
+  ],
+  "doubts": [
+    {
+      "id": 1,
+      "doubt_name": "Himu",
+      "doubt_desc": "I don't have any doubt",
+      "doubt_priority": "low"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Berk",
+      "last_name": "Cary",
+      "email": "bcary0@t.co",
+      "user_doubts": "How many days contain in all couces"
+    },
+    {
+      "id": 2,
+      "first_name": "Gussi",
+      "last_name": "Sokell",
+      "email": "gsokell1@topsy.com",
+      "user_doubts": "Will it be record"
+    }
+  ]
+}
